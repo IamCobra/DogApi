@@ -15,10 +15,11 @@ header {
   background-color: #fff;
 }
 
+/* Galleri specifikt */
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-gap: 15px;
+  grid-gap: 20px;
   padding: 10px;
 }
 .gallery img {
